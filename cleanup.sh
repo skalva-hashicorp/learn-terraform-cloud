@@ -1,4 +1,4 @@
 #!/bin/bash
-rm -rf ./terraform
+rm -rf .terraform
 rm -f .terraform.lock.hcl
 rm -f ./terraform.auto.tfvars
